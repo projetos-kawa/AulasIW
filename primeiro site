@@ -1,15 +1,1 @@
-<Html> <!--inicio da pagina  -->
-<head> <!-- cabeçalho  -->
-       <!--todas as informações para os navegadores  -->
-  <title> primeiro site 1C</title>
-  </head>
-  <body>
-    <!--conteudo da pagina  -->
-    <h1>introdução ao html</h1>
-    <p>html (Hyper text marku language) é uma linguagem de marcação de hipertexto utilizada apra a criação de paginas da web. Essa é a linguagem que o seu navegador (browser).
-    </p>
-    
-    <h2>breve historico da evolução do HTML</2>
-   <p> Desde a ivenção da web em 1992 por tim benners-lee, a HTML evoluiu a cada versão lançada, sendo a versão mais atual a HTML5. (SILVA), 2011, p. 21 </p>    
-
-<html>
+file:///C:/Users/User/Desktop/primeiro_site/index.html
